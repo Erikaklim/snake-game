@@ -1,0 +1,3 @@
+C:/Users/Erika/CLionProjects/HighScore/cmake-build-debug/CMakeFiles/HighScoreDLL.dir
+C:/Users/Erika/CLionProjects/HighScore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Erika/CLionProjects/HighScore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
